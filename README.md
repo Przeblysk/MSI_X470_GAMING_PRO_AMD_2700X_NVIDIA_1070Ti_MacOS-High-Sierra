@@ -7,6 +7,7 @@
 |内存|三星（SAMSUNG） DDR4 2400 8G X 2|
 |显卡|微星（MSI）GeForce GTX 1070 Ti Titanium|
 |SSD|三星（SAMSUNG）250GB 970 EVO|
+|网卡|博通BCM94360CD|
 
 
 macOS High Sierra 10.13.6
